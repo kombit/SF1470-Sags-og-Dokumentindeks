@@ -1,2 +1,2 @@
-# This is a mockup for a Wiki for SDY
-![](SagDokumentIndeks_Thumbnail.jpeg)
+# SDY-Wiki
+SDY Developer Friendly Wikipidia
