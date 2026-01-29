@@ -1,2 +1,2 @@
 # SF1470 Sags- og Dokumentindeks
-![](SagDokumentIndeks_Thumbnail.jpeg)
+![](images\SagDokumentIndeks_Thumbnail.jpeg)
