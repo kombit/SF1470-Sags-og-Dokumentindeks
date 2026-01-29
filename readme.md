@@ -1,2 +1,2 @@
-# SF1470 Sags- og Dokumentindeks
-![](images\SagDokumentIndeks_Thumbnail.jpeg)
+# SDY-Wiki
+SDY Developer Friendly Wikipidia
